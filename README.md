@@ -18,7 +18,13 @@ limitations under the License.
 
 # Adept Micro Benchmarks - ASSEMBLER
 
-This README file introduces the Assembler Micro Benchmarks..
+This README file introduces the Assembler Micro Benchmarks.
+
+## Citation & Further Information
+If you would like to cite this work, please cite:
+Nick Johnson et al., "Adept Deliverable D2.3 - Updated Report on Adept Benchmarks", September 2015.
+available at http://www.adept-project.eu/images/Deliverables/Adept%20D2.3.pdf
+
 
 ## Basic Operations
 
